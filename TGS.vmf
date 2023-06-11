@@ -21765,37 +21765,6 @@ entity
 }
 entity
 {
-	"id" "6792"
-	"classname" "game_text"
-	"angles" "0 0 0"
-	"channel" "1"
-	"color" "255 255 255"
-	"color2" "255 255 255"
-	"effect" "1"
-	"fadein" "5"
-	"fadeout" "5"
-	"fxtime" "0.25"
-	"holdtime" "1"
-	"message" "You have gotten the: 
- backrooms ending! 
- 
- Ending 
- 6/7"
-	"spawnflags" "0"
-	"targetname" "ending_backrooms_text"
-	"x" "-1"
-	"y" "-1"
-	"origin" "-48 -320 48"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -2268]"
-	}
-}
-entity
-{
 	"id" "7300"
 	"classname" "light"
 	"_light" "108 133 179 6"
@@ -21815,33 +21784,6 @@ entity
 }
 entity
 {
-	"id" "1805"
-	"classname" "game_text"
-	"angles" "0 0 0"
-	"channel" "1"
-	"color" "255 255 255"
-	"color2" "0 0 0"
-	"effect" "0"
-	"fadein" "0"
-	"fadeout" "5"
-	"fxtime" "0.25"
-	"holdtime" "0"
-	"message" "THE GARRY STORY"
-	"spawnflags" "0"
-	"targetname" "garry_intro"
-	"x" "-1"
-	"y" "-1"
-	"origin" "-48 -376 -48"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2000 0]"
-	}
-}
-entity
-{
 	"id" "7384"
 	"classname" "logic_script"
 	"angles" "0 0 0"
@@ -21854,33 +21796,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 2000]"
-	}
-}
-entity
-{
-	"id" "1813"
-	"classname" "game_text"
-	"angles" "0 0 0"
-	"channel" "1"
-	"color" "255 255 255"
-	"color2" "255 255 255"
-	"effect" "1"
-	"fadein" "5"
-	"fadeout" "5"
-	"fxtime" "0.25"
-	"holdtime" "1"
-	"message" "Thanks for playing!"
-	"spawnflags" "0"
-	"targetname" "thanks_for_playing_text"
-	"x" "-1"
-	"y" "-1"
-	"origin" "0 -440 48"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -2268]"
 	}
 }
 entity
@@ -22194,37 +22109,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[-2268 14000]"
-	}
-}
-entity
-{
-	"id" "6778"
-	"classname" "game_text"
-	"angles" "0 0 0"
-	"channel" "1"
-	"color" "255 255 255"
-	"color2" "255 255 255"
-	"effect" "1"
-	"fadein" "5"
-	"fadeout" "5"
-	"fxtime" "0.25"
-	"holdtime" "1"
-	"message" "You have gotten the: 
- broom closet ending! 
- 
- Ending 
- 4/7"
-	"spawnflags" "0"
-	"targetname" "ending_broom_text"
-	"x" "-1"
-	"y" "-1"
-	"origin" "-48 -368 48"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -2268]"
 	}
 }
 entity
@@ -22986,37 +22870,6 @@ entity
 }
 entity
 {
-	"id" "6762"
-	"classname" "game_text"
-	"angles" "0 0 0"
-	"channel" "1"
-	"color" "255 255 255"
-	"color2" "255 255 255"
-	"effect" "1"
-	"fadein" "5"
-	"fadeout" "5"
-	"fxtime" "0.25"
-	"holdtime" "1"
-	"message" "You have gotten the: 
- hammer madness ending! 
- 
- Ending 
- 3/7"
-	"spawnflags" "0"
-	"targetname" "ending_hammer_text"
-	"x" "-1"
-	"y" "-1"
-	"origin" "-48 -392 48"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -2268]"
-	}
-}
-entity
-{
 	"id" "1635"
 	"classname" "light"
 	"_light" "108 133 179 6"
@@ -23278,99 +23131,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[-11768 6500]"
-	}
-}
-entity
-{
-	"id" "1817"
-	"classname" "game_text"
-	"angles" "0 0 0"
-	"channel" "1"
-	"color" "255 255 255"
-	"color2" "255 255 255"
-	"effect" "1"
-	"fadein" "5"
-	"fadeout" "5"
-	"fxtime" "0.25"
-	"holdtime" "1"
-	"message" "You have gotten the: 
- regular ending! 
- 
- Ending 
- 1/7"
-	"spawnflags" "0"
-	"targetname" "ending_regular_text"
-	"x" "-1"
-	"y" "-1"
-	"origin" "-48 -440 48"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -2268]"
-	}
-}
-entity
-{
-	"id" "6786"
-	"classname" "game_text"
-	"angles" "0 0 0"
-	"channel" "1"
-	"color" "255 255 255"
-	"color2" "255 255 255"
-	"effect" "1"
-	"fadein" "5"
-	"fadeout" "5"
-	"fxtime" "0.25"
-	"holdtime" "1"
-	"message" "You have gotten the: 
- defenestration ending! 
- 
- Ending 
- 5/7"
-	"spawnflags" "0"
-	"targetname" "ending_window_text"
-	"x" "-1"
-	"y" "-1"
-	"origin" "-48 -344 48"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -2268]"
-	}
-}
-entity
-{
-	"id" "6798"
-	"classname" "game_text"
-	"angles" "0 0 0"
-	"channel" "1"
-	"color" "255 255 255"
-	"color2" "255 255 255"
-	"effect" "1"
-	"fadein" "5"
-	"fadeout" "5"
-	"fxtime" "0.25"
-	"holdtime" "1"
-	"message" "You have gotten the: 
- cheating ending! 
- 
- Ending 
- 7/7"
-	"spawnflags" "0"
-	"targetname" "ending_cheating_text"
-	"x" "-1"
-	"y" "-1"
-	"origin" "-48 -296 48"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -2268]"
 	}
 }
 entity
@@ -24040,73 +23800,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "1815"
-	"classname" "game_text"
-	"angles" "0 0 0"
-	"channel" "1"
-	"color" "255 255 255"
-	"color2" "255 255 255"
-	"effect" "1"
-	"fadein" "5"
-	"fadeout" "5"
-	"fxtime" "0.25"
-	"holdtime" "15"
-	"message" "Made by: 
- Tinnedfoil906 - Mapper & Main Layout Designer 
- MrBlackMesa1 - Mapper  & Layout Designer 
- Spoops - Voice Actor 
- Fludd-Stopp - Improved Writing 
- Williamist - VScripting 
- 
- laVashik - additional VScripting 
- 
- The Stanley Parable Dev Team - Original Game"
-	"spawnflags" "0"
-	"targetname" "credits_text"
-	"x" "-1"
-	"y" "-1"
-	"origin" "-24 -440 48"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -2268]"
-	}
-}
-entity
-{
-	"id" "6724"
-	"classname" "game_text"
-	"angles" "0 0 0"
-	"channel" "1"
-	"color" "255 255 255"
-	"color2" "255 255 255"
-	"effect" "1"
-	"fadein" "5"
-	"fadeout" "5"
-	"fxtime" "0.25"
-	"holdtime" "1"
-	"message" "You have gotten the: 
- video game ending! 
- 
- Ending 
- 2/7"
-	"spawnflags" "0"
-	"targetname" "ending_game_text"
-	"x" "-1"
-	"y" "-1"
-	"origin" "-48 -416 48"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -2268]"
 	}
 }
 entity
