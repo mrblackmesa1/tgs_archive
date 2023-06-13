@@ -20226,11 +20226,7 @@ entity
 	"fadeout" "5"
 	"fxtime" "0.25"
 	"holdtime" "1"
-	"message" "You have gotten the: 
- regular ending! 
- 
- Ending 
- 1/7"
+	"message" "You have gotten the: regular ending! 1/7"
 	"spawnflags" "0"
 	"targetname" "ending_regular_text"
 	"x" "-1"
@@ -23282,11 +23278,7 @@ entity
 	"fadeout" "5"
 	"fxtime" "0.25"
 	"holdtime" "1"
-	"message" "You have gotten the: 
- cheating ending! 
- 
- Ending 
- 7/7"
+	"message" "You have gotten the: cheating ending! Ending 7/7"
 	"spawnflags" "0"
 	"targetname" "ending_cheating_text"
 	"x" "-1"
@@ -24142,11 +24134,7 @@ entity
 	"fadeout" "5"
 	"fxtime" "0.25"
 	"holdtime" "1"
-	"message" "You have gotten the: 
- video game ending! 
- 
- Ending 
- 2/7"
+	"message" "You have gotten the: video game ending! Ending 2/7"
 	"spawnflags" "0"
 	"targetname" "ending_game_text"
 	"x" "-1"
@@ -24173,11 +24161,7 @@ entity
 	"fadeout" "5"
 	"fxtime" "0.25"
 	"holdtime" "1"
-	"message" "You have gotten the: 
- hammer madness ending! 
- 
- Ending 
- 3/7"
+	"message" "You have gotten the: hammer madness ending! Ending 3/7"
 	"spawnflags" "0"
 	"targetname" "ending_hammer_text"
 	"x" "-1"
@@ -24204,11 +24188,7 @@ entity
 	"fadeout" "5"
 	"fxtime" "0.25"
 	"holdtime" "1"
-	"message" "You have gotten the: 
- broom closet ending! 
- 
- Ending 
- 4/7"
+	"message" "You have gotten the: broom closet ending!  Ending 4/7"
 	"spawnflags" "0"
 	"targetname" "ending_broom_text"
 	"x" "-1"
@@ -24235,11 +24215,7 @@ entity
 	"fadeout" "5"
 	"fxtime" "0.25"
 	"holdtime" "1"
-	"message" "You have gotten the: 
- defenestration ending! 
- 
- Ending 
- 5/7"
+	"message" "You have gotten the: defenestration ending!  Ending 5/7"
 	"spawnflags" "0"
 	"targetname" "ending_window_text"
 	"x" "-1"
@@ -24266,11 +24242,7 @@ entity
 	"fadeout" "5"
 	"fxtime" "0.25"
 	"holdtime" "1"
-	"message" "You have gotten the: 
- backrooms ending! 
- 
- Ending 
- 6/7"
+	"message" "You have gotten the: backrooms ending! Ending 6/7"
 	"spawnflags" "0"
 	"targetname" "ending_backrooms_text"
 	"x" "-1"
