@@ -1,4 +1,3 @@
-# fuckingcompetitionpmammapthingiaminpainsendhelpthevoicesaregettinglouderanywaysitsacoolmapithink
-Portal 2 competition map github
+# TGS archive
 
-GOOBER!
+contains very old builds of the garry story
